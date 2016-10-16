@@ -1,0 +1,26 @@
+{
+  "name": "express_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grunt": "grunt",
+    "start": "nodemon ./bin/www"
+  },
+  "author": "Rob Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.3",
+    "grunt-tslint": "^3.3.0",
+    "jade": "^1.11.0",
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0"
+  }
+}
